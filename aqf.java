@@ -1,0 +1,6 @@
+public enum aqf {
+	INVISIBLE,
+	LIQUID,
+	ENTITYBLOCK_ANIMATED,
+	MODEL;
+}

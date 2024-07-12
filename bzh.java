@@ -1,0 +1,64 @@
+public class bzh {
+	public static final bzj a = new bzj();
+	public static final bzj b = new bzj();
+	public static final bzj c = new bzj();
+	public static final bzj d = new bzj();
+	public static final bzj e = new bzj();
+	public static final bzj f = new bzj();
+	public static final bzj g = new bzj();
+	public static final bzj h = new bzj();
+	public static final bzj i = new bzj();
+	public static final bzj j = new bzj();
+	public static final bzj k = new bzj();
+	public static final bzj l = new bzj();
+	public static final bzk m = new bzk(0, bzk.a.FLOAT, bzk.b.POSITION, 3);
+	public static final bzk n = new bzk(0, bzk.a.UBYTE, bzk.b.COLOR, 4);
+	public static final bzk o = new bzk(0, bzk.a.FLOAT, bzk.b.UV, 2);
+	public static final bzk p = new bzk(1, bzk.a.SHORT, bzk.b.UV, 2);
+	public static final bzk q = new bzk(0, bzk.a.BYTE, bzk.b.NORMAL, 3);
+	public static final bzk r = new bzk(0, bzk.a.BYTE, bzk.b.PADDING, 1);
+
+	static {
+		a.a(m);
+		a.a(n);
+		a.a(o);
+		a.a(p);
+		b.a(m);
+		b.a(n);
+		b.a(o);
+		b.a(q);
+		b.a(r);
+		c.a(m);
+		c.a(o);
+		c.a(q);
+		c.a(r);
+		d.a(m);
+		d.a(o);
+		d.a(n);
+		d.a(p);
+		e.a(m);
+		f.a(m);
+		f.a(n);
+		g.a(m);
+		g.a(o);
+		h.a(m);
+		h.a(q);
+		h.a(r);
+		i.a(m);
+		i.a(o);
+		i.a(n);
+		j.a(m);
+		j.a(o);
+		j.a(q);
+		j.a(r);
+		k.a(m);
+		k.a(o);
+		k.a(p);
+		k.a(n);
+		l.a(m);
+		l.a(o);
+		l.a(n);
+		l.a(q);
+		l.a(r);
+	}
+}
